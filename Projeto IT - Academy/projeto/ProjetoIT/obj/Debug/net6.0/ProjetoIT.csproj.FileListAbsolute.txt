@@ -1,0 +1,15 @@
+C:\Users\dudus\Desktop\projeto\ProjetoIT\bin\Debug\net6.0\ProjetoIT.exe
+C:\Users\dudus\Desktop\projeto\ProjetoIT\bin\Debug\net6.0\ProjetoIT.deps.json
+C:\Users\dudus\Desktop\projeto\ProjetoIT\bin\Debug\net6.0\ProjetoIT.runtimeconfig.json
+C:\Users\dudus\Desktop\projeto\ProjetoIT\bin\Debug\net6.0\ProjetoIT.dll
+C:\Users\dudus\Desktop\projeto\ProjetoIT\bin\Debug\net6.0\ProjetoIT.pdb
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ProjetoIT.csproj.AssemblyReference.cache
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ProjetoIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ProjetoIT.AssemblyInfoInputs.cache
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ProjetoIT.AssemblyInfo.cs
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ProjetoIT.csproj.CoreCompileInputs.cache
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ProjetoIT.dll
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\refint\ProjetoIT.dll
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ProjetoIT.pdb
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ProjetoIT.genruntimeconfig.cache
+C:\Users\dudus\Desktop\projeto\ProjetoIT\obj\Debug\net6.0\ref\ProjetoIT.dll
